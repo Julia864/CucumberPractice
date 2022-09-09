@@ -22,7 +22,7 @@ Feature: Test scenario for Git
 
 
 
-  Scenario: Logo on Githab
+  Scenario: Button New on Githab
 
     Given User is on "Login Page"
 
